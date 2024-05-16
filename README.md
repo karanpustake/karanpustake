@@ -11,4 +11,4 @@ Skills :
  
 <img src="https://myreadme.vercel.app/api/embed/karanpustake?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanpustake&langs_count=8)
